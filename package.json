@@ -1,5 +1,5 @@
 {
-  "name": "@meta-tag-sanisation-issue/source",
+  "name": "meta-tag-sanisation-issue",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
